@@ -6,7 +6,7 @@
 
 ```
 $ git clone https://github.com/dct2002/bookingticket.git
-$ cd mern-booking-movie
+
 ```
 
 ### 2. Create .env File
